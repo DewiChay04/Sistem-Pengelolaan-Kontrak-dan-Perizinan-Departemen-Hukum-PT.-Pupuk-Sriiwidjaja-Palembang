@@ -13,5 +13,4 @@ This repository was created to facilitate the process of project development doc
 ![SS-Login-2](https://user-images.githubusercontent.com/56758626/128605671-46c5975c-f2a3-4fd6-a94e-ec0fe4dabfbd.png)
 ![SS-Karyawan-1](https://user-images.githubusercontent.com/56758626/128605723-518c9faa-3e2c-4900-b76a-6f49e0468074.png)
 ![SS-Mail-Register-1](https://user-images.githubusercontent.com/56758626/128605731-ddd037f2-f2d9-4476-8110-c57ba8b72e86.png)
-![SS-Database-2](https://user-images.githubusercontent.com/56758626/128605740-e24efce2-225e-4952-9fbd-1208e044e776.png)
 
